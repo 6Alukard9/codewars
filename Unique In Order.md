@@ -29,8 +29,7 @@ def unique_in_order(iterable):
             b.append(iterable[i])
         elif iterable[i] != iterable[i - 1]:
             b.append(iterable[i])
-    return b
-    ```
+    return b```
     
     
 Codewars source [link](https://www.codewars.com/kata/54e6533c92449cc251001667/train/python)
